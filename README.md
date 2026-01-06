@@ -1,16 +1,31 @@
-## Hi there 👋
+### Selamlar, ben Metin Oktay Özcan! 👋
 
-<!--
-**MetinOktayOzcan/MetinOktayOzcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bandırma Onyedi Eylül Üniversitesi'nde **Bilgisayar Programcılığı** öğrencisiyim. Yazılım geliştirme süreçlerine tutkuyla yaklaşıyor, modern teknolojiler ve otomasyon sistemleri üzerine projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+Şu anda aktif olarak staj arayışındayım! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Yetenekler & Teknolojiler
+
+* **Diller:** Python (Orta), SQL, C# (Orta), PHP (Temel)
+* **Alanlar:** Web Scraping, Otomasyon Botları, Veri Tabanı Yönetimi, Backend Geliştirme
+* **Araçlar:** Git & GitHub, VS Code, SQLite, MySQL
+
+---
+
+### 🔭 Şu An Ne Yapıyorum?
+
+* 🌱 **Python** ile gelişmiş fiyat takip botları ve otomasyon araçları geliştiriyorum.
+* 📚 **PHP & MySQL** ile güvenli içerik yönetim sistemleri (CMS) mimarisini öğreniyorum.
+---
+
+### 📈 Öne Çıkan Projem
+
+**🛒 [python-price-tracker](https://github.com/MetinOktayOzcan/python-price-tracker)**
+E-ticaret sitelerindeki fiyatları takip eden, veritabanına kaydeden ve indirim durumunda masaüstü bildirimi gönderen tam kapsamlı bir otomasyon botu.
+* *Kullanılanlar: Python, SQLite, BeautifulSoup, Plyer*
+
+---
+
+📫 **Bana Ulaşın:** [[Linkedin]](https://www.linkedin.com/in/metinoktayozcan/) | metinoktayozcan@hotmail.com
