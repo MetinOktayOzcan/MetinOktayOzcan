@@ -1,13 +1,9 @@
 ### 📈 Öne Çıkan Projelerim
 
-**📦 [Stok Takip Sistemi](https://github.com/MetinOktayOzcan/StokTakipSistemi)**
-İlişkisel veritabanı mimarisiyle geliştirilmiş; dinamik dashboard, ilişkisel veri kontrollü CRUD işlemleri ve anlık loglama özelliklerine sahip masaüstü depo yönetim uygulaması.
-* *Teknolojiler: C# (Windows Forms), MS SQL Server, ADO.NET*
+**🛡️ [Stok Takip Sistemi - Core API](https://github.com/MetinOktayOzcan/StokTakip-Core-API)**
+Katmanlı mimari ve Repository Pattern üzerine inşa edilmiş; HttpOnly Cookie tabanlı JWT yetkilendirmesi, IP Spoofing / Rate Limiting korumaları ve Race Condition (eşzamanlılık) yönetimine sahip kurumsal seviye Web API altyapısı (Azure üzerinde canlıda).
+* *Teknolojiler: .NET 10.0 (C#), Entity Framework Core, MSSQL, Serilog, xUnit, Azure*
 
-**🛒 [python-price-tracker](https://github.com/MetinOktayOzcan/python-price-tracker)**
-E-ticaret sitelerindeki fiyatları web scraping ile takip eden, SQLite üzerinde loglayan ve hedef fiyata düşüldüğünde masaüstü bildirimi tetikleyen otomasyon botu.
-* *Teknolojiler: Python, SQLite, BeautifulSoup, Plyer*
-
-**🍔 [online-qr-menu](https://github.com/MetinOktayOzcan/online-qr-menu)**
-Restoranlar için tasarlanmış; veritabanı tablolarını otomatik inşa eden (tak-çalıştır), mobil uyumlu arayüze ve dinamik yönetim paneline sahip QR menü sistemi.
-* *Teknolojiler: PHP, MySQL, Bootstrap 5*
+**🖥️ [Stok Takip Sistemi - Web İstemcisi](https://github.com/MetinOktayOzcan/StokTakip-UI)**
+Core API ile tam entegre çalışan; rol bazlı yetkilendirme (RBAC), dinamik istatistik paneli (Recharts), karanlık/aydınlık tema desteği, otomatik oturum yönetimi (inactivity timeout) ve Excel çıktı özelliklerine sahip modern responsive web arayüzü.
+* *Teknolojiler: React, Ant Design, Recharts, Axios, Vite*
